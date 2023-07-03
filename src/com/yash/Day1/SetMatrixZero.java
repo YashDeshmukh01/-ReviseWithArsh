@@ -1,4 +1,4 @@
-package com.yash;
+package com.yash.Day1;
 
 public class SetMatrixZero {
     public static void main(String[] args) {
